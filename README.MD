@@ -1,4 +1,4 @@
-Construindo uma Landing Page no Mundo Invertido com HTML e CSS
+Construindo um Simulador de Piano com JavaScript, HTML e CSS
 
 Criado com o objetivo de colocar em prática meu aprendizado durante o bootcamp Ri Happy - Front-end do Zero na plataforma DIO.
 
