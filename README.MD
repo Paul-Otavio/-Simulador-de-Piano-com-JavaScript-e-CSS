@@ -1,9 +1,8 @@
-# Simulador de Piano com JavaScript e CSS
+Construindo uma Landing Page no Mundo Invertido com HTML e CSS
 
 Criado com o objetivo de colocar em prática meu aprendizado durante o bootcamp Ri Happy - Front-end do Zero na plataforma DIO.
 
 ## Linguagens Utilizadas:
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
